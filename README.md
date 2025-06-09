@@ -1,8 +1,8 @@
-# 🧠 Machine Learning Fundamentals – Jupyter Notebook Series
+# Machine Learning Fundamentals – Jupyter Notebook Series
 
 This repository contains a collection of beginner-friendly **machine learning notebooks** covering essential concepts, models, and preprocessing techniques. Each notebook focuses on a specific topic with practical examples to help reinforce understanding.
 
-## 📁 Notebooks Overview
+## Notebooks Overview
 
 | No. | Filename                       | Topic Description                          |
 |-----|--------------------------------|--------------------------------------------|
@@ -24,7 +24,7 @@ This repository contains a collection of beginner-friendly **machine learning no
 | 16  | `16-One_Hot_Encoding`          | One-hot encoding                           |
 | 17  | `17-FBProphet_forecasting`     | Time series forecasting with Prophet       |
 
-## 🛠 Main Libraries Used
+## Main Libraries Used
 
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn`
@@ -33,13 +33,13 @@ This repository contains a collection of beginner-friendly **machine learning no
 - `prophet` (formerly `fbprophet`)
 - `yfinance`
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone or download the repository.
 2. Open each `.ipynb` notebook with [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.research.google.com/).
 3. Run the cells step-by-step to explore and learn the concepts interactively.
 
-## 🎯 Purpose
+## Purpose
 
 This project aims to help beginners get hands-on experience with machine learning by practicing key algorithms and techniques in a modular and progressive way.
 
